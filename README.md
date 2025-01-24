@@ -2,7 +2,8 @@
 
 # Setting Up Python Environment in VS Code for Data Science & Machine Learning
 
-Creating a Python virtual environment ensures that your projects are isolated and dependencies are managed effectively. Follow these steps to set up your environment on Windows, Linux, or macOS.
+Creating a Python virtual environment isolates your projects and manages dependencies effectively.
+Follow these steps to set up your environment on Windows, Linux, or macOS.
 
 ---
 
@@ -47,5 +48,9 @@ Creating a Python virtual environment ensures that your projects are isolated an
 4. You are now ready to install your project dependencies.
 
 ---
+
+**Happy coding!**
+
+
 
 
